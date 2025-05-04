@@ -1,4 +1,4 @@
-# encoder
+# Encoder
 
 # 🧠 Categorical Feature Encoder (From Scratch)
 
